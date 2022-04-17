@@ -1,6 +1,6 @@
 
 <div>
-  <h1 align="center">Ooi, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/yuri-barbosa-86020a197/"><i>Yuri Barbosa</i></a> 😃️</h1>
+  <h1 align="center">Ooi, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/yuri-barbosa-86020a197/"><i>Yuri Barbosa</i></a> 😃️</h1>
   <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
   </a><br>
 </div>
