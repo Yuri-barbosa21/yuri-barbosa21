@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/yuri-barbosa21">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yuri-barbosa21&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-barbosa21&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yuri-barbosa21&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-barbosa21&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/yuri-barbosa21/yuri-barbosa21/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
