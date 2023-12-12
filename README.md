@@ -5,14 +5,14 @@
   </a><br>
 </div>
 
-/*
+
 <div align="center">
   <a href="https://github.com/yuri-barbosa21">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yuri-barbosa21&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-barbosa21&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
 </div>
-*/
+
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
